@@ -1,0 +1,3 @@
+[zed-strawberry]
+submodule = "extensions/zed-strawberry"
+version = "0.0.1"
