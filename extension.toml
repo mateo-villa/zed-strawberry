@@ -1,0 +1,7 @@
+id = "strawberry"
+name = "Strawberry"
+version = "0.0.1"
+schema_version = 1
+authors = ["Mateo Villa <mateovilla@protonmail.com>"]
+description = "A berry good theme for the Zed IDE"
+repository = "https://github.com/mateo-villa/zed-strawberry"
