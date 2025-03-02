@@ -7,16 +7,17 @@
       "name": "Strawberry Light",
       "appearance": "light",
       "accents": [
-        "#cc241dff",
-        "#98971aff",
-        "#d79921ff",
-        "#458588ff",
-        "#b16286ff",
-        "#689d6aff",
-        "#d65d0eff"
+        "#d53032ff",
+        "#f2685eff",
+        "#ffb3b3ff",
+        "#ffd6d6ff",
+        "#a61c30ff",
+        "#7d1128ff",
+        "#4caf50ff",
+        "#ffd700ff"
       ],
       "style": {
-        "border": "#5b534dff",
+        "border": "#f2685eff",
         "border.variant": "#494340ff",
         "border.focused": "#303a36ff",
         "border.selected": "#303a36ff",
@@ -36,7 +37,7 @@
         "ghost_element.active": "#5b524cff",
         "ghost_element.selected": "#5b524cff",
         "ghost_element.disabled": "#3a3735ff",
-        "text": "#fbf1c7ff",
+        "text": "#FFB3B3ff",
         "text.muted": "#c5b597ff",
         "text.placeholder": "#998b78ff",
         "text.disabled": "#998b78ff",
@@ -46,7 +47,7 @@
         "icon.disabled": "#998b78ff",
         "icon.placeholder": "#c5b597ff",
         "icon.accent": "#83a598ff",
-        "status_bar.background": "#4c4642ff",
+        "status_bar.background": "#a61c30ff",
         "title_bar.background": "#4c4642ff",
         "title_bar.inactive_background": "#3a3735ff",
         "toolbar.background": "#282828ff",
@@ -54,7 +55,7 @@
         "tab.inactive_background": "#3a3735ff",
         "tab.active_background": "#282828ff",
         "search.match_background": "#83a59866",
-        "panel.background": "#3a3735ff",
+        "panel.background": "#a61c30ff",
         "panel.focused_border": "#83a598ff",
         "pane.focused_border": null,
         "scrollbar.thumb.background": "#fbf1c74c",
@@ -63,13 +64,13 @@
         "scrollbar.track.background": "#00000000",
         "scrollbar.track.border": "#373432ff",
         "editor.foreground": "#ebdbb2ff",
-        "editor.background": "#282828ff",
+        "editor.background": "#A61C30ff",
         "editor.gutter.background": "#282828ff",
         "editor.subheader.background": "#3a3735ff",
         "editor.active_line.background": "#3a3735bf",
         "editor.highlighted_line.background": "#3a3735ff",
-        "editor.line_number": "#6e6b5e",
-        "editor.active_line_number": "#dedcd3",
+        "editor.line_number": "#096c0dff",
+        "editor.active_line_number": "#4caf50ff",
         "editor.hover_line_number": "#c9c5b6",
         "editor.invisible": "#928474ff",
         "editor.wrap_guide": "#fbf1c70d",
@@ -334,7 +335,7 @@
             "font_weight": null
           },
           "string": {
-            "color": "#b8bb25ff",
+            "color": "#096c0dff",
             "font_style": null,
             "font_weight": null
           },
@@ -722,7 +723,7 @@
             "font_weight": null
           },
           "string": {
-            "color": "#b8bb25ff",
+            "color": "#393634bf",
             "font_style": null,
             "font_weight": null
           },
